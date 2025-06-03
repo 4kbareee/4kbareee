@@ -30,7 +30,7 @@ I'm currently focused on expanding my expertise in fullstack development using *
 [💼 CareerPath Recommender – SPK for SMK TKJ Alumni]  
 A web-based decision support system built using Profile Matching to recommend career or education paths for vocational high school graduates.
 
-[📚 LexRAG – AI-powered Legal Document Assistant](https://github.com/4kbareee/lexrag)  
+[📚 LexRAG – AI-powered Legal Document Assistant](https://github.com/irsyadfkrz/RAG-Project)  
 A fullstack RAG (Retrieval-Augmented Generation) application that helps users understand legal documents using natural language queries and context-aware responses.
 
 
