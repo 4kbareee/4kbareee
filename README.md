@@ -38,9 +38,9 @@ A fullstack RAG (Retrieval-Augmented Generation) application that helps users un
 
 ### 📫 Let's Connect!
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/4kbareee/)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/akbar-fauzan-warahidayat-22001a210/)
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/4kbareee)
-[<img alt="Instagram" src="https://img.shields.io/badge/@4kbareee-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/akbfw)
+[<img alt="Instagram" src="https://img.shields.io/badge/@4kbareee-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/akbfw22)
 
 ---
 
